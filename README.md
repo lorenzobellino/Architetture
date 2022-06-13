@@ -46,3 +46,7 @@ Programmazione ARM assembler:
   Riscrivi lo stesso programma, qquesta volta usando le tecniche di programmazione condizionale tipiche della programmazione ARM
   + [Esercizio 3](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab06/LAB06E3.s)  
   Scrivere un programma per calcolare la distanza di Hamming tra due valori implementato in ARM
+* [Laboratorio 7](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab07/Lab07.pdf)  
+Programmazione ARM assembler su scheda landtiger
+* [Laboratorio 8](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab08/lab8.pdf)  
+Programmazione ARM assembler su scheda landtiger
