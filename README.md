@@ -21,5 +21,5 @@ Esercizi di scrittura programmi in assembler MIPS
   Assumere che i vettori ```V1[]```, ```V2[]```, ```V3[]``` e ```V4[]``` contengano 40 valori a doppia precisione floating point, assumere anche che ```V2[]```  non contenga 0 e che ```V5[]```, ```V6[]``` e ```V7[]``` siano array vuoti anch'essi allocati in memoria.
   + [programma 3](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab02/program_3.s)  
   scrivere un programma in assembler MIPS in grado di restituire l'output della computazione in figura:  
-  !(https://github.com/lorenzobellino/Architetture/blob/main/img/img1.png)  
+  ![](https://github.com/lorenzobellino/Architetture/blob/main/img/img1.png)  
   e completare la tabella in base alle diverse configurazioni
