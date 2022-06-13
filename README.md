@@ -35,3 +35,14 @@ Esercizi di scrittura programmi in assembler MIPS:
 Introduzione a Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab04/lab_04.pdf)  
 * [Laboratorio 5](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab05/lab_05.pdf)  
 Configurazioni del processore e chlle performance in Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab05/lab_05.pdf)  
+
+* [Laboratorio 6](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab06/lab_06_2021-22.pdf)
+Programmazione ARM assembler:  
+  + [Esercizio 1](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab06/LAB06E1.s)  
+  Scrivere un programma per causare l'update dei vari flag (carry, overflow, negative, zero)
+  + [Esercizio 2 v1](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab06/LAB06E2v1.s)  
+  Scrivi un programma assembler usando le classiche tecniche di programmazione assembler (usate anche per MIPS)
+  + [Esercizio 2 v2](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab06/LAB06E2v2.s)  
+  Riscrivi lo stesso programma, qquesta volta usando le tecniche di programmazione condizionale tipiche della programmazione ARM
+  + [Esercizio 3](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab06/LAB06E3.s)  
+  Scrivere un programma per calcolare la distanza di Hamming tra due valori implementato in ARM
