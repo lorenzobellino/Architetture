@@ -23,7 +23,7 @@ Esercizi di scrittura programmi in assembler MIPS:
   scrivere un programma in assembler MIPS in grado di restituire l'output della computazione in figura:  
   ![](https://github.com/lorenzobellino/Architetture/blob/main/img/img1.png)  
   e completare la tabella in base alle diverse configurazioni.
-* [Laboratorio 3](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab01/lab_013.pdf)  
+* [Laboratorio 3](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab01/lab_03.pdf)  
   Esercizi di scrittura programmi in assembler MIPS e ottimizzazione: effettua il calcolo a mano e con il simulatore dei colpi di clock necessari per eseguire il programma nelle sue varianti.
     + [programma 2_a](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_a.s)  
     Partendo dal [programma 2](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab02/program_2.s) del laboratorio precedente ottimizzalo effettuando rescheduling in modo da eliminare più hazard possibili.
@@ -31,3 +31,5 @@ Esercizi di scrittura programmi in assembler MIPS:
     Partendo dal [programma 2_a](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_a.s) ailita il branch delay slot ed effettua il re-scheduling delle istruzioni per migliorare ulteriormente il tempo di esecuzione.
     + [programma 2_c](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_c.s)  
     Partendo dal [programma 2_b](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_b.s) effettua l'unrolling (4 volte) e se necessario effettua re-scheduling e il renaming dei registri usati
+* [Laboratorio 4](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab01/lab_04.pdf)  
+Introduzione a Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab01/lab_04.pdf)  
