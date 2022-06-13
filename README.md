@@ -32,5 +32,6 @@ Esercizi di scrittura programmi in assembler MIPS:
     + [programma 2_c](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_c.s)  
     Partendo dal [programma 2_b](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_b.s) effettua l'unrolling (4 volte) e se necessario effettua re-scheduling e il renaming dei registri usati
 * [Laboratorio 4](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab04/lab_04.pdf)  
-Introduzione a Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab01/lab_04.pdf)  
-* [Laboratorio 5](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab05/lab_05.pdf)
+Introduzione a Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab04/lab_04.pdf)  
+* [Laboratorio 5](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab05/lab_05.pdf)  
+Configurazioni del processore e chlle performance in Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab05/lab_05.pdf)  
