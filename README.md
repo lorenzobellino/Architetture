@@ -1,7 +1,7 @@
 # Architetture
 Laboratori per il corso Architetture dei sistemi di Elaborazione - Politecnico di Torino Anno 2022
 
-* [Laboratorio 1](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab01/lab_01.pdf)  
+* [Laboratorio 1](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab01/lab_01.pdf)  
 Esercizi di scrittura programmi in assembler MIPS:
   + [programma 0](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab01/program_0.s)  
   Scrivere un programma in cui, dato un array (```A```) trovare quante volte il valore a 8 bit ```val = 0x2f``` ricorre in esso. L'array contiene 100 valori unsigned a 16 bit, trovare le occorrenze sia negli 8 bit più significativi sia in quelli meno significativi di ciascun elemento a 16 bit dell' array. salvare il risultato in una variabile a 8 bit (```res```).
@@ -23,7 +23,7 @@ Esercizi di scrittura programmi in assembler MIPS:
   scrivere un programma in assembler MIPS in grado di restituire l'output della computazione in figura:  
   ![](https://github.com/lorenzobellino/Architetture/blob/main/img/img1.png)  
   e completare la tabella in base alle diverse configurazioni.
-* [Laboratorio 3](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab03/lab_03.pdf)  
+* [Laboratorio 3](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/lab_03.pdf)  
   Esercizi di scrittura programmi in assembler MIPS e ottimizzazione: effettua il calcolo a mano e con il simulatore dei colpi di clock necessari per eseguire il programma nelle sue varianti.
     + [programma 2_a](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_a.s)  
     Partendo dal [programma 2](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab02/program_2.s) del laboratorio precedente ottimizzalo effettuando rescheduling in modo da eliminare più hazard possibili.
@@ -31,12 +31,12 @@ Esercizi di scrittura programmi in assembler MIPS:
     Partendo dal [programma 2_a](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_a.s) ailita il branch delay slot ed effettua il re-scheduling delle istruzioni per migliorare ulteriormente il tempo di esecuzione.
     + [programma 2_c](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_c.s)  
     Partendo dal [programma 2_b](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab03/program_2_b.s) effettua l'unrolling (4 volte) e se necessario effettua re-scheduling e il renaming dei registri usati
-* [Laboratorio 4](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab04/lab_04.pdf)  
-Introduzione a Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab04/lab_04.pdf)  
-* [Laboratorio 5](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab05/lab_05.pdf)  
-Configurazioni del processore e chlle performance in Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab05/lab_05.pdf)  
+* [Laboratorio 4](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab04/lab_04.pdf)  
+Introduzione a Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab04/lab_04.pdf)  
+* [Laboratorio 5](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab05/lab_05.pdf)  
+Configurazioni del processore e chlle performance in Gem5: [soluzione](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab05/lab_05.pdf)  
 
-* [Laboratorio 6](https://github.com/lorenzobellino/Architetture/blob/master/Laboratori/Lab06/lab_06_2021-22.pdf)
+* [Laboratorio 6](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab06/lab_06_2021-22.pdf)
 Programmazione ARM assembler:  
   + [Esercizio 1](https://github.com/lorenzobellino/Architetture/blob/main/Laboratori/Lab06/LAB06E1.s)  
   Scrivere un programma per causare l'update dei vari flag (carry, overflow, negative, zero)
